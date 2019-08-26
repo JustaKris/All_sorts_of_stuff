@@ -1,0 +1,266 @@
+'''
+This is a blackjack game. I made it according to instructions so i can't take full credit. Maybe not even half :(
+'''
+
+# Setup
+import random
+suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
+ranks = ('Two', 'Three','Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Jack', 'Queen', 'King', 'Ace')
+values = {'Two':2, 'Three':3, 'Four':4, 'Five':5, 'Six':6, 'Seven':7, 'Eight':8, 'Nine':9, 'Ten':10, 'Jack':10, 'Queen':10, 'King':10, 'Ace':11}
+
+playing = True # --> generic True value to keep track if game is in play mode
+
+#Cards class
+class Card:
+    def __init__(self,suit,rank):
+        self.suit = suit
+        self.rank = rank
+
+    def __str__(self):
+        return "//--> " + self.rank + ' of ' + self.suit
+
+#Deck
+
+class Deck:
+
+    def __init__(self):
+        self.deck = [] # start of with an empty list that will be filled later
+        for suit in suits:
+            for rank in ranks:
+                self.deck.append(Card(suit,rank))
+
+    def __str__(self):
+        deck_comp = '' # empty string to store the built deck
+        for card in self.deck:
+            deck_comp += '\n ' + card.__str__()
+        return 'The deck has:' + deck_comp
+    
+    def shuffle(self):
+        random.shuffle(self.deck)
+
+    def deal(self):
+        single_card = self.deck.pop()
+        return single_card
+
+'''
+# Deck tst
+test_deck = Deck()
+print(test_deck)
+'''
+
+#Hand
+
+class Hand:
+    def __init__(self):
+        self.cards = [] # empty list (no cards in hand yet)
+        self.value = 0 # start of with 0 value(no cards in hand yet)
+        self.aces = 0 # to keep track of aces
+
+    def add_card(self,card):
+        #takes a card from deck.deal() --> Card(suit,rank)
+        self.cards.append(card)
+        self.value += values[card.rank]
+        if card.rank == 'Ace':
+            self.aces += 1
+
+    def adjust_for_ace(self):
+
+        #if total value > 21 and i still have an ace --> change ace from 11 to 1
+        while self.value > 21 and self.aces > 0 : # advanced tip --> 0 is always treated as False so self.aces > 0 can just be set to self.aces
+            self.value -= 10
+            self.aces -= 1 # Truthyness?
+
+
+'''
+# Hand deal test
+test_deck = Deck()
+print(test_deck.shuffle())
+test_player = Hand()
+print(test_player.add_card(test_deck.deal()))
+print(test_player.add_card(test_deck.deal()))
+print(test_player.value)
+
+for card in test_player.cards:
+    print(card)
+'''
+
+#Chips
+class Chips:
+  def __init__(self,total=100):
+        self.total = total
+        self.bet = 0
+
+  def win_bet(self):
+        # self.total = self.total + self.bet
+        self.total += self.bet
+
+  def lose_bet(self):
+        # self.total = self.total - self.bet
+        self.total -= self.bet
+
+
+'''
+Functions
+'''
+def take_bet(chips):
+
+    while True:
+
+        try:
+            chips.bet = int(input("\nPlace your bet: "))
+        except:
+            print("Very clever! Now try with numbers.")
+        else:
+            if chips.bet > chips.total:
+                print('Insufficient funds. Your current total: {}'.format(chips.total))
+            else:
+                break
+
+
+def hit(deck,hand):
+    single_card = deck.deal()
+    hand.add_card(single_card)
+    hand.adjust_for_ace()
+
+
+def hit_or_stand(deck,hand):
+  global playing # Makes playig into a global variable
+
+  while True:
+    print("--------------------------------------------------")
+    x = input('Hit or Stand? Enter Hit or Stand: ')
+    print("--------------------------------------------------")
+    if x[0].upper() == 'H':
+        hit(deck,hand)
+    elif x[0].upper() == 'S':
+        print("Dealer's turn")
+        playing = False
+    else:
+        print("Sorry, no Comprende.")
+        continue
+    break
+
+# Hide/Show cards
+def show_some(player,dealer):
+    print("\n----------------\n||Dealer's hand:\n----------------\n")
+    print("//--> <card hidden>")
+    print(dealer.cards[1])
+    print("\n----------------\n||Player's Hand:\n----------------\n", *player.cards, sep='\n')
+
+def show_all(player,dealer):
+    print("\n_________________________________________\n----------------\n||Dealer's Hand =\n----------------", *dealer.cards, sep="\n")
+    print("-||-------------------||\n","||Dealer's Hand =",dealer.value,"||\n-||-------------------||")
+    print("\n----------------\n||Player's Hand =\n----------------", *player.cards, sep='\n')
+    print("-||-------------------||\n","||Player's Hand =",player.value,"||\n-||-------------------||")
+
+# End of game scenarios
+def player_busts(player,dealer,chips):
+
+    print("---------------------------")
+    print("Player Bust!")
+    chips.lose_bet()
+    print("---------------------------")
+
+def player_wins(player,dealer,chips):
+    print("---------------------------")
+    print('Player WINS!')
+    chips.win_bet()
+    print("---------------------------")
+
+def dealer_busts(player,dealer,chips):
+    print("---------------------------")
+    print("Player WINS! Dealer BUSTED!")
+    chips.win_bet()
+    print("---------------------------")
+
+def dealer_wins(player,dealer,chips):
+    print("---------------------------")
+    print("Dealer WINS!")
+    chips.lose_bet()
+    print("---------------------------")
+
+def push(player,dealer):
+    print("---------------------------")
+    print("Dealer and player tie! PUSH")
+    print("---------------------------")
+
+
+
+# Glue this together phase
+while True:
+    # Print an opening statement
+    print('---------------------------------------------------------------------------')
+    print('| Welcome to BlackJack! Get as close to 21 as you can without going over! |')
+    print('||------- Dealer hits until he reaches 17. Aces count as 1 or 11. -------||')
+    print('|||--------------------------- Good luck! ------------------------------|||')
+    print('___________________________________________________________________________')    
+    
+    # Create & shuffle the deck, deal two cards to each player
+    deck = Deck()
+    deck.shuffle()
+    
+    player_hand = Hand()
+    player_hand.add_card(deck.deal())
+    player_hand.add_card(deck.deal())
+    
+    dealer_hand = Hand()
+    dealer_hand.add_card(deck.deal())
+    dealer_hand.add_card(deck.deal())
+            
+    # Set up the Player's chips
+    player_chips = Chips()  # remember the default value is 100    
+    
+    # Prompt the Player for their bet
+    take_bet(player_chips)
+    
+    # Show cards (but keep one dealer card hidden)
+    show_some(player_hand,dealer_hand)
+    
+    while playing:  # recall this variable from our hit_or_stand function
+        
+        # Prompt for Player to Hit or Stand
+        hit_or_stand(deck,player_hand) 
+        
+        # Show cards (but keep one dealer card hidden)
+        show_some(player_hand,dealer_hand)  
+        
+        # If player's hand exceeds 21, run player_busts() and break out of loop
+        if player_hand.value > 21:
+            player_busts(player_hand,dealer_hand,player_chips)
+            break        
+
+
+    # If Player hasn't busted, play Dealer's hand until Dealer reaches 21 or busts 
+    if player_hand.value <= 21:
+        
+        while dealer_hand.value < player_hand.value and dealer_hand.value < 21:
+            hit(deck,dealer_hand)    
+
+        # Show all cards
+        show_all(player_hand,dealer_hand)
+        
+        # Run different winning scenarios
+        if dealer_hand.value > 21:
+            dealer_busts(player_hand,dealer_hand,player_chips)
+
+        elif dealer_hand.value > player_hand.value:
+            dealer_wins(player_hand,dealer_hand,player_chips)
+
+        elif dealer_hand.value < player_hand.value:
+            player_wins(player_hand,dealer_hand,player_chips)
+
+        else:
+            push(player_hand,dealer_hand)        
+    
+    # Inform Player of their chips total 
+    print("\nPlayer's total chips are at",player_chips.total)
+    
+    # Ask to play again
+    new_game = input("Would you like to play another hand? Enter 'y' or 'n' ")
+    
+    if new_game[0].lower() == 'y':
+        playing = True
+        continue
+    else:
+        print("Thanks for playing!")
+        break

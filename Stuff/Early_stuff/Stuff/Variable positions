@@ -1,0 +1,82 @@
+x = 25
+
+def printer():
+  x = 50
+  return x
+
+print(x)
+
+print(printer())
+
+lambda num:num**2
+
+#1.Built_in ex: print(), len(), so on
+#2.Global
+name = "This is a global string"
+def greet():
+  #3.Enclosing
+  name = "Sammy"
+
+  def hello():
+    #4.Local
+    name - "I'm a local"
+    print("Hello "+name)
+
+  hello()
+
+
+greet()
+
+
+
+x = 25
+
+def printer():
+  x = 50
+  return x
+
+print(x)
+
+print(printer())
+
+lambda num:num**2
+
+#1.Built_in ex: print(), len(), so on
+#2.Global
+name = "This is a global string"
+def greet():
+  #3.Enclosing
+  name = "Sammy"
+
+  def hello():
+    #4.Local
+    name = "I'm a local"
+    print("Hello "+name)
+
+  hello()
+
+
+greet()
+
+x = 50
+
+def func(x):
+  print(f'X is {x}')
+
+  #local reassignment!
+  x = 200
+  print(f'I just locally changed X to {x}')
+
+print(func(x))
+
+
+def func(x):
+  
+  print(f'X is {x}')
+
+  #local reassignment!
+  x = 200
+  print(f'I just locally changed X to {x}')
+
+print(x)
+print(func(x))

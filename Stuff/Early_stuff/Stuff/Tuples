@@ -1,0 +1,14 @@
+t = (1,2,3)
+mylist = [1,2,3]
+print(type(t))
+
+t = ('one',2)
+print(t[0])
+print(t[1])
+print(t[-1])
+
+t = ('a','a','c')
+print(t.count('c'))
+print(t.index('c'))
+mylist[0] = "NEW"
+print(mylist)

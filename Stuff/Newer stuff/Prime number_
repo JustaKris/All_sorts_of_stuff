@@ -1,0 +1,48 @@
+'''
+This app checks if the given number is a prime number and displays the number's divisors if it's not prime.
+'''
+'''
+def int_prompt(input_text="Give me a number: "):
+    return(int(input(input_text)))
+'''
+
+def int_prompt(input_text="Plis gif namber:"):
+    n = 0
+    while n < 2:
+        n = int(input(input_text))
+
+    return n
+
+
+print("---------------------------------------------------------")
+print("---------------------------------------------------------")
+print("Have you even wanted to know if a certain number is a Prime Number?")
+print("Well if the answer is yes, then you are in luck.")
+print("---------------------------------------------------------")
+print("---------------------------------------------------------")
+
+
+number = int_prompt("Enter a number greater than 2: ")
+
+#print(number)
+
+divisors = []
+
+possible_divisors = list(range(2,number))
+#print(possible_divisors)
+
+for x in possible_divisors:
+    if number % x == 0:
+        divisors.append(x)
+        
+#print(divisors)
+
+if len(divisors) > 0:
+    print("--------------------------------------")
+    print(f"{number} is not a prime number")
+    print(f"It's divisible by: {str(divisors)}")
+
+else:
+    print("--------------------------------------")
+    print(f"{number} is not devisible by any other number other thn itself.")
+    print("It's a prime number!")

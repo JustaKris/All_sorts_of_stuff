@@ -1,0 +1,53 @@
+def add(n1,n2):
+  print(n1+n2)
+'''
+add(10,20)
+
+number1 = 10
+number2 = input('Please provide a number: ')
+
+add(number1,number2)
+print('Something Happened!')
+'''
+try:
+  #Insert what you want to try
+  result = 10 + 10
+
+except:
+  print("It looks like you aren't adding correctly")
+
+else:
+  print('Add went well!')
+  print(result)
+
+
+
+try:
+  f = open('testfile','w')
+  f.write('Write a test line')
+except TypeError:
+  print('There was a type error!')
+except OSError:
+  print('OS Error')
+except:
+  print('Some error')
+finally:
+  print('I always run')
+
+
+def ask_for_int():
+
+  while True:
+
+    try:
+      result = int(input('Please provide a number: '))
+    except:
+      print('Whoops! That is not a number')
+      print('Try again')
+      continue
+    else:
+      print('Yes thank you')
+      break
+    
+
+ask_for_int()

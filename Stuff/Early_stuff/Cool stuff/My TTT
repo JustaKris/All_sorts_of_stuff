@@ -1,0 +1,169 @@
+'''
+Command line Tic Tac Toe
+Made accrding to instructions
+Can't take full credit
+'''
+
+
+#Board
+
+def display_board(board):
+  #Board separations
+  print('\n'*3)
+  print("____________")
+  print("____________")
+  print('\n')
+  #Actual Board
+  print('   |   |   ')
+  print(' ' + board[7] + ' | ' + board[8] + ' | ' + board[9] + ' ')
+  print('   |   |   ')
+  print('------------')
+  print('   |   |   ')
+  print(' ' + board[4] + ' | ' + board[5] + ' | ' + board[6] + ' ')
+  print('   |   |   ')
+  print('------------') 
+  print('   |   |   ')
+  print(' ' + board[1] + ' | ' + board[2] + ' | ' + board[3] + ' ')
+  print('   |   |   ')
+
+#Test for board
+#test_board = ['#','X','O','X','O','X','O','X','O','X']
+#display_board(test_board)
+
+#Player input
+def player_input():
+
+  marker = ''
+  
+  while marker != 'X' and marker != 'O':
+    marker = input("Pick a marker Player 1(X) or Player 2(O): ").upper()
+  if marker == "X":
+    return ('X', 'O')
+  else:
+    return ('O', 'X')
+
+#Test for player input
+#player1_marker , player2_marker = player_input()
+
+
+#Marker placer
+def place_marker(board, marker, position):
+  board[position] = marker
+
+
+#Winner?
+
+def win_check(board, mark):
+  return ((board[7] == mark and board[8] == mark and board[9] == mark) or
+  (board[4] == mark and board[5] == mark and board[6] == mark) or
+  (board[1] == mark and board[2] == mark and board[3] == mark) or
+  (board[7] == mark and board[4] == mark and board[1] == mark) or
+  (board[8] == mark and board[5] == mark and board[2] == mark) or 
+  (board[9] == mark and board[6] == mark and board[3] == mark) or
+  (board[1] == mark and board[5] == mark and board[9] == mark) or
+  (board[7] == mark and board[5] == mark and board[3] == mark))
+
+
+  
+
+#RNG
+import random
+
+def choose_first():
+  if random.randint(0, 1) == 0:
+    return 'Player 2'
+  else:
+    return 'Player 1'
+
+#Free space?
+def space_check(board, position):
+  return board[position] == ' '
+
+#Job's done!!!
+def full_board_check(board):
+  for i in range(1,10):
+    if space_check(board, i):
+      return False
+  return True
+
+#Next
+def player_choice(board):
+  position = 0
+
+  while position not in [1,2,3,4,5,6,7,8,9] or not space_check(board, position):
+    position = int(input('Choose your destiny: (1-9): '))
+
+  return position
+
+
+#Wanna go again?
+def replay():
+    
+    return input('Аре на вързано? Enter Y/N?: ').lower().startswith('y')
+
+
+#Now to glue everything together
+
+#Setup
+print('------Let the games.... BEGIN!------')
+while True:
+
+  the_board = [' ']*10
+  player1_marker, player2_marker = player_input()
+
+  game_on = bool
+
+  turn = choose_first()
+  print(turn + ', ти си!')
+
+  play_game = input('Shall we? Y/N ?: ')
+
+  if play_game == 'y':
+    game_on == True
+  else:
+    game_on == False
+
+  #Gameplay
+  #Player 1 turn
+  while game_on:
+    if turn == "Player 1":
+      #Display board
+      display_board(the_board)
+      #Choose position
+      position = player_choice(the_board)
+      #Place marker
+      place_marker(the_board, player1_marker, position)
+      #Check if they won
+      if win_check(the_board ,player1_marker):
+        display_board(the_board)
+        print('Ми брао....!!')
+        game_on = False
+      else:
+        if full_board_check(the_board):
+          display_board(the_board)
+          print('Great minds think alike')
+          game_on = False
+        else:
+          turn = 'Player 2'
+    #Player 2 turn
+    else:
+      #Display board
+      display_board(the_board)
+      #Choose position
+      position = player_choice(the_board)
+      #Place marker
+      place_marker(the_board,player2_marker,position)
+      #Check if they won
+      if win_check(the_board,player2_marker):
+        display_board(the_board)
+        print('Player 2 has WON!!')
+        game_on = False
+      else:
+        if full_board_check(the_board):
+          display_board(the_board)
+          print('Great mind think alike')
+          game_on = False
+        else:
+          turn = 'Player 1'
+  if not replay():
+    break
