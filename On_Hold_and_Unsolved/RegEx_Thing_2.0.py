@@ -1,3 +1,11 @@
+'''
+Issue: when user input is actually used as an input() only the first row is being read.
+'''
+'''
+Link to SoftUni test:
+https://judge.softuni.bg/Contests/Practice/Index/1140#2
+'''
+
 import re
 
 user_input = '''

@@ -11,19 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/pyautogui/StarTrack_DWH_Login.py">
+        <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/pyautogui/StarTrack_DWH_Login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Workbench/backup_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -106,10 +97,13 @@
         <option value="$PROJECT_DIR$/WorkBench/StarTrack_DWH_Login.py" />
         <option value="$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Newer stuff/Palindrome_" />
         <option value="$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/pyautogui/mouse_position.py" />
+        <option value="$PROJECT_DIR$/../All_sorts_of_stuff/Workbench/backup_2.py" />
+        <option value="$PROJECT_DIR$/../All_sorts_of_stuff/Workbench/HTML_exploration.py" />
+        <option value="$PROJECT_DIR$/../All_sorts_of_stuff/On_Hold_and_Unsolved/RegEx_Thing_2.0.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -127,6 +121,11 @@
             <path>
               <item name="Random Fuckery" type="b2602c69:ProjectViewProjectNode" />
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Random Fuckery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="General" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Random Fuckery" type="b2602c69:ProjectViewProjectNode" />
@@ -149,11 +148,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\On_Hold_and_Unsolved" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Workbench" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Stuff" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Early_stuff\Course_Projects" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Newer stuff" />
-      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,7 +167,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StarTrack_DWH_Login">
+  <component name="RunManager" selected="Python.HTML_exploration">
+    <configuration name="HTML_exploration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Random Fuckery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../All_sorts_of_stuff/Workbench" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\On_Hold_and_Unsolved\HTML_scraping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="StarTrack_DWH_Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Random Fuckery" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,27 +202,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkBench/StarTrack_DWH_Login.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="backup_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Random Fuckery" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\Random Fuckery\Early console stuff\Newer stuff\Random_password_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HTML_exploration" />
         <item itemvalue="Python.StarTrack_DWH_Login" />
         <item itemvalue="Python.mouse_position" />
         <item itemvalue="Python.backup_3" />
         <item itemvalue="Python.backup_2" />
-        <item itemvalue="Python.backup_1" />
       </list>
     </recent_temporary>
   </component>
@@ -298,8 +297,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,7 +324,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/pyautogui/StarTrack_DWH_Login.py</url>
+          <url>file://$PROJECT_DIR$/../All_sorts_of_stuff/General/pyautogui/StarTrack_DWH_Login.py</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -334,95 +332,71 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/Class inheritance.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/Class inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="52" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/Class Decorator.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/Class Decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/SoftUni Test/Date diff.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/SoftUni Test/Date diff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Early_stuff/Course_Projects/BlackJack.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Early_stuff/Course_Projects/BlackJack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning/RegEx/data" />
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/RegEx/Live.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="44" column="54" lean-forward="true" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/RegEx/data.txt">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/RegEx/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
           <caret line="498" column="28" selection-start-line="498" selection-start-column="28" selection-end-line="498" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/RegEx/other.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/SoftUni Test/lists_thing.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/SoftUni Test/lists_thing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Newer stuff/Reverse word order.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Newer stuff/Reverse word order.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Newer stuff/First_last">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Newer stuff/First_last">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/RegEx/RegEx_Thing.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/RegEx/RegEx_Thing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/RegEx/RegEx_Thing_2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Newer stuff/Random_password_generator.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Newer stuff/Random_password_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="77" selection-start-line="1" selection-start-column="77" selection-end-line="1" selection-end-column="77" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Workbench/backup_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -433,7 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Newer stuff/Palindrome_">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Newer stuff/Palindrome_">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="116" selection-start-line="9" selection-start-column="116" selection-end-line="9" selection-end-column="116" />
@@ -447,7 +421,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/pyautogui/mouse_position.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/pyautogui/mouse_position.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
@@ -464,7 +438,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/pyautogui/StarTrack_DWH_Login.py">
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/Stuff/Learning/RegEx/other.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/Learning/RegEx/RegEx_Tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/On_Hold_and_Unsolved/RegEx_Thing_2.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/On_Hold_and_Unsolved/HTML_scraping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="290" selection-start-line="1" selection-start-column="290" selection-end-line="1" selection-end-column="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../All_sorts_of_stuff/General/pyautogui/StarTrack_DWH_Login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
