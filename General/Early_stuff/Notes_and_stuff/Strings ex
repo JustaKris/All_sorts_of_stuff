@@ -1,0 +1,11 @@
+lucky_numbers = [4, 8 ,15, 16, 23, 42]
+stuff = ["Something", "anything", "whatever", "i mean", "srs anything..."]
+stuff[1] = "example"
+stuff.append("Getting tired of this")
+stuff.extend(lucky_numbers)
+stuff.insert(1, "randomness")
+stuff.remove("i mean")
+stuff.pop()
+stuff.reverse()
+stuff2 = stuff.copy()
+print(stuff)

@@ -1,0 +1,206 @@
+class Dog():
+
+#CLASS OBJECT ATTRIBUTE
+#SAME FOR ANY INSTANCE OF A CLASS
+  species = 'mammal'
+
+  def __init__(self,breed,name,spots):
+
+    self.breed = breed
+    self.name = name
+    self.spots = spots
+
+  #Operations/Actions = Methods
+  def bork(self,number):
+    print("S'up!, my name is {} and the number is {}".format(self.name,number))
+
+my_dog = Dog(breed="German Shepard",name="Reks",spots=False)
+
+print(my_dog.species)
+print(my_dog.breed)
+print(my_dog.name)
+print(my_dog.spots)
+print(my_dog.bork(3))
+
+print('\n')
+#You donn't actually need the keywords infront!!!
+another_dog = Dog("Huskie", "Meatloaf",False)
+
+print(another_dog.species)
+print(another_dog.breed)
+print(another_dog.name)
+print(another_dog.spots)
+print(another_dog.bork(15))
+
+
+
+class Circle():
+  pi = 3.14
+
+  def __init__(self, radius=1):
+    self.radius = radius
+    self.area = radius*radius*Circle.pi
+
+  def get_circumference(self):
+    return self.radius * Circle.pi * 2
+
+my_circle = Circle(30)
+
+print(my_circle.pi)
+print(my_circle.radius)
+print(my_circle.get_circumference())
+print(my_circle.area)
+
+print('\n')
+
+class Animal():
+
+  def __init__(self):
+    print('Animal Created')
+
+  def who_am_i(self):
+    print('I am an animal')
+
+  def eat(self):
+    print('I am eating')
+
+myanimal = Animal()
+myanimal.eat()
+myanimal.who_am_i()
+
+print('\n')
+
+class Dog(Animal):
+
+  def __init__(self):
+    Animal.__init__(self)
+    print('Dog Created')
+
+  def who_am_i(self):
+    print('I am a Dog')
+
+  def bork(self):
+    print("S'up")
+
+mydog = Dog()
+mydog.eat()
+mydog.who_am_i()
+mydog.bork()
+
+
+
+
+#Homework
+
+print('\n')
+
+
+class Line:
+    
+    def __init__(self,coor1,coor2):
+        #self.coor1 = coor1
+        #self.coor2 = coor2
+
+        '''
+        Approach No3 = ''
+        '''
+        self.x1 = coor1[0]
+        self.y1 = coor1[1]
+        self.x2 = coor2[0]
+        self.y2 = coor2[1]
+
+    def distance(self):
+        '''
+        x1,y1 = self.coor1
+        x2,y2 = self.coor2
+        return ((x2-x1)**2 + (y2-self.y1)**2)**0.5
+        '''
+        return ((self.x2-self.x1)**2 + (self.y2-self.y1)**2)**0.5
+
+    def slope(self):
+        #x1,y1 = self.coor1
+        #x2,y2 = self.coor2
+        #return ((y2-y1)/(x2-x1))
+
+        '''
+        #Approach No2 = # 
+        x1 = self.coor1[0]
+        y1 = self.coor1[1]
+        x2 = self.coor2[0]
+        y2 = self.coor2[1]
+        return ((y2-y1)/(x2-x1))
+        '''
+        return (self.y2-self.y1)/(self.x2-self.x1)
+        
+
+coordinate1 = (3,2)
+coordinate2 = (8,10)
+
+li = Line(coordinate1,coordinate2)
+
+print(li.distance())
+
+print(li.slope())
+
+
+print('\n')
+
+
+class Cylinder:
+
+    pi = 3.14
+    
+    def __init__(self,height=1,radius=1):
+        self.height = height
+        self.radius = radius
+        
+    def volume(self):
+        return self.radius**2 * self.pi * self.height
+    
+    def surface_area(self):
+        return 2*(self.pi*(self.radius**2)) + (2*self.pi*self.radius*self.height)
+
+c = Cylinder(2,3)
+
+print(c.volume())
+print(c.surface_area())
+
+
+#Object challenge
+
+class Account():
+
+  def __init__(self,name,balance):
+    self.name = name
+    self.balance = balance
+
+  def __str__(self):
+    return f'Account owner: {self.name}\nAccount balance: ${self.balance}'
+
+  def deposit(self,amount):
+    self.balance = self.balance + amount
+    return 'Deposit Accepted'
+  
+  def withdrawl(self,withdrawl_amount):
+
+    if withdrawl_amount > self.balance:
+      return 'Funds Unavailable!'
+    else:
+      self.balance = self.balance - withdrawl_amount
+      return 'Withdrawal Accepted'
+
+
+print('\n')
+
+acct1 = Account('Jose',100)
+print(acct1)
+print(acct1.name)
+print(acct1.balance)
+print('\n')
+print(acct1.deposit(50))
+print(acct1.balance)
+print('\n')
+print(acct1.withdrawl(75))
+print(acct1.balance)
+print(acct1.withdrawl(500))
+print(acct1.balance)
