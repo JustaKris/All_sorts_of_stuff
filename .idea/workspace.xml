@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sandbox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py">
+        <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -89,6 +87,7 @@
         <option value="$PROJECT_DIR$/Workbench/file_manipulation.py" />
         <option value="$PROJECT_DIR$/Workbench/csv_ssv.py" />
         <option value="$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py" />
+        <option value="$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py" />
       </list>
     </option>
   </component>
@@ -251,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Beginner Neural Networks\Training a Basic model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,12 +287,25 @@
       <option name="project" value="LOCAL" />
       <updated>1570718461634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Neural Networks Intro">
+      <created>1571065737625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571065737625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Neural Networks fixing spelling">
+      <created>1571066632753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571066632753</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -318,7 +330,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Neural Networks setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neural Networks setup" />
+    <MESSAGE value="Neural Networks Intro" />
+    <MESSAGE value="Neural Networks fixing spelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neural Networks fixing spelling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -490,10 +504,10 @@
     <entry file="file://$PROJECT_DIR$/Workbench/backup_1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py">
+    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
