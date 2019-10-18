@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/General/Beginner Neural Networks/workfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Beginner Neural Networks/workfile" beforeDir="false" afterPath="$PROJECT_DIR$/General/Beginner Neural Networks/workfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+            <state relative-caret-position="527">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -318,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571152210560</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Neural Networks Reloaded">
+      <created>1571411381722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571411381722</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -350,7 +357,8 @@
     <MESSAGE value="Neural Networks Intro" />
     <MESSAGE value="Neural Networks fixing spelling" />
     <MESSAGE value="Neural Networks first model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neural Networks first model" />
+    <MESSAGE value="Neural Networks Reloaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neural Networks Reloaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,8 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+        <state relative-caret-position="527">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
