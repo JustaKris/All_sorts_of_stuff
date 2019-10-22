@@ -1,3 +1,7 @@
+'''
+https://www.youtube.com/watch?v=6g4O5UOH304
+'''
+
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
