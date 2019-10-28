@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="" />
+    <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/General/Daily/Staircase/Staircase problem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Daily/Staircase/staircase pro solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,25 +16,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py">
+        <entry file="file://$PROJECT_DIR$/General/Daily/Staircase/Staircase problem">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-              <folding>
-                <element signature="e#1190#1222#0" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/Daily/Staircase/staircase pro solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Imdb_Modeling.py">
+        <entry file="file://$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="88" column="3" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="578">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -99,6 +107,10 @@
         <option value="$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py" />
         <option value="$PROJECT_DIR$/General/Beginner Neural Networks/workfile" />
         <option value="$PROJECT_DIR$/General/Beginner Neural Networks/Imdb_Modeling.py" />
+        <option value="$PROJECT_DIR$/General/Daily/staircase.py" />
+        <option value="$PROJECT_DIR$/General/Daily/Staircase/Staircase problem" />
+        <option value="$PROJECT_DIR$/General/Daily/Staircase/staircase.py" />
+        <option value="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" />
       </list>
     </option>
   </component>
@@ -113,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,13 +142,19 @@
               <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Beginner Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="General" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily" type="462c0819:PsiDirectoryNode" />
+              <item name="Staircase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,11 +164,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\Staircase" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\On_Hold_and_Unsolved" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Workbench" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Stuff" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Early_stuff\Course_Projects" />
-      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Newer stuff" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -164,28 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Imdb_Modeling">
-    <configuration name="HTML_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sandbox" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/On_Hold_and_Unsolved" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/On_Hold_and_Unsolved/HTML_scraping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.staircase solution">
     <configuration name="Imdb_Modeling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="csv_ssv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="staircase solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,11 +213,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workbench" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Daily/Staircase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workbench/csv_ssv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staircase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Daily/Staircase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\Staircase\staircase pro solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.staircase solution" />
+        <item itemvalue="Python.staircase" />
         <item itemvalue="Python.Imdb_Modeling" />
         <item itemvalue="Python.workfile (1)" />
         <item itemvalue="Python.workfile" />
-        <item itemvalue="Python.HTML_scraping" />
-        <item itemvalue="Python.csv_ssv" />
       </list>
     </recent_temporary>
   </component>
@@ -340,18 +359,26 @@
       <option name="project" value="LOCAL" />
       <updated>1571669870849</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Neural Networks Added link to course in Imdb_Modeling">
+      <created>1571726521687</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571726521687</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3033586" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3033586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,7 +401,8 @@
     <MESSAGE value="Neural Networks first model" />
     <MESSAGE value="Neural Networks Reloaded" />
     <MESSAGE value="Neural Networks End, Saved model for evaluating IMDB review" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neural Networks End, Saved model for evaluating IMDB review" />
+    <MESSAGE value="Neural Networks Added link to course in Imdb_Modeling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neural Networks Added link to course in Imdb_Modeling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,33 +579,8 @@
     <entry file="file://$PROJECT_DIR$/Workbench/backup_1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-end-line="88" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-          <folding>
-            <element signature="e#1190#1222#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile" />
+    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/workfile.py" />
     <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Lion King review.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -587,11 +590,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Imdb_Modeling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="88" column="3" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Beginner Neural Networks/Training a Basic model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+          <folding>
+            <element signature="e#1190#1222#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/Staircase/staircase pro solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/Staircase/Staircase problem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
