@@ -1,4 +1,8 @@
 
+N = 4
+X = {1, 3, 5}
+
+# Slution
 def solution(n):
     if n == 0 or n == 1:
         return 1
@@ -13,9 +17,9 @@ def solution(n):
     # print(nums)
     return nums[n]
 
-N = 4
 print(solution(N))
 
+# Solution with X
 def solution_X(n, X):
     if n == 0:
         return 1
@@ -32,5 +36,4 @@ def solution_X(n, X):
         nums[i] = total
     return nums[n]
 
-X = {1, 3, 5}
 print(solution_X(N, X))
