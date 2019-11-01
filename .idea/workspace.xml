@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/General/Daily/Find pairs/FindSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General/Daily/Find pairs/FindSum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Daily/FirstMissingPositive/FirstMissingPositive.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Daily/FirstMissingPositive/firstMissingPositive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Daily/Staircase/staircase pro solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Daily/Staircase/staircase pro solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Selenium/experimentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Selenium/GTDC_Coding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Selenium/GTDC_Coding.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Selenium/GTDC_Coding_experimentation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,30 +18,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/General/Selenium/GTDC_Coding.py">
+        <entry file="file://$PROJECT_DIR$/General/Selenium/GTDC_Coding_experimentation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/General/Daily/Find pairs/FindSum.txt">
+        <entry file="file://$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="340">
+              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/Daily/FirstMissingPositive/firstMissingPositive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/General/Daily/Find pairs/FindSum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/General/Daily/FirstMissingPositive/FirstMissingPositive.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -65,10 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DWH_Login.py" />
-        <option value="$PROJECT_DIR$/StarTrack_DWH_Login.py" />
-        <option value="$PROJECT_DIR$/Class inheritance.py" />
-        <option value="$PROJECT_DIR$/Class Decorator.py" />
         <option value="$PROJECT_DIR$/random.py" />
         <option value="$PROJECT_DIR$/Date diff.py" />
         <option value="$PROJECT_DIR$/Learning/Date diff.py" />
@@ -116,10 +120,14 @@
         <option value="$PROJECT_DIR$/General/Daily/Find pairs/FindSum.txt" />
         <option value="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" />
         <option value="$PROJECT_DIR$/General/Daily/Staircase/staircase pro solution.py" />
+        <option value="$PROJECT_DIR$/General/Daily/Multiply_List_Except_i/MultiplyAllExcept_i.py" />
+        <option value="$PROJECT_DIR$/General/Daily/Multiply_List_Except_i/MultiplyAllExcept_i" />
+        <option value="$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.py" />
+        <option value="$PROJECT_DIR$/General/Daily/firstMissingPositive.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -154,14 +162,7 @@
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
               <item name="Daily" type="462c0819:PsiDirectoryNode" />
-              <item name="Find pairs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily" type="462c0819:PsiDirectoryNode" />
-              <item name="Staircase" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
@@ -182,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\FirstMissingPositive" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\Find pairs" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\Staircase" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\On_Hold_and_Unsolved" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Workbench" />
-      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\Flask\All_sorts_of_stuff\Stuff" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindPairs">
+  <component name="RunManager" selected="Python.firstMissingPositive">
     <configuration name="FindPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,6 +216,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\Find pairs\FindSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GTDC_Coding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Selenium\GTDC_Coding_experimentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductofArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Daily/ProductofArray" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="experimentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="firstMissingPositive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,53 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Daily" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Selenium\GTDC_Coding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="staircase solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sandbox" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Daily/Staircase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Daily/Staircase/staircase solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="staircase" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sandbox" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Daily/Staircase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\Staircase\staircase pro solution.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Daily\FirstMissingPositive\firstMissingPositive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.firstMissingPositive" />
+        <item itemvalue="Python.ProductofArray" />
+        <item itemvalue="Python.GTDC_Coding" />
         <item itemvalue="Python.FindPairs" />
         <item itemvalue="Python.Return if adds up to k" />
-        <item itemvalue="Python.experimentation" />
-        <item itemvalue="Python.staircase solution" />
-        <item itemvalue="Python.staircase" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +412,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
@@ -679,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/General/Selenium/GTDC_Coding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/General/Daily/Find pairs/FindSum.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -695,10 +689,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/General/Daily/Find pairs/FindSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Selenium/GTDC_Coding_experimentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/ProductofArray/ProductofArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/FirstMissingPositive/firstMissingPositive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Daily/FirstMissingPositive/FirstMissingPositive.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
