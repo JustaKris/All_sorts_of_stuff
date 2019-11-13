@@ -1,5 +1,18 @@
-import requests
+'''
+a = 10
 
-r = requests.get('https://xkcd.com/353/')
+for x in range(0, a + 1, 5):
+    print(x)
+'''
 
-print(r)
+lst = [1, 2, 3, 4]
+print(lst)
+lst[1] = 25
+print(lst)
+
+
+tpl = (1, 2, 3, 4)
+print(tpl)
+
+
+
