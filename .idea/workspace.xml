@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="" />
+    <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/BlackJack backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Calc1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Decorators" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Error stuff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Functions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/I can't understand how this works" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Iter()" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Lambda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Lists" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Madlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/My copied TTT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Na Dancho domashnite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Objects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/One-liners" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Statements Assessment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Strings ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Tuples" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Variable positions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/While loops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Yield, Next and Fibonachi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/args and kwargs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/class1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/for" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/if" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/pycharm snake" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,31 +125,6 @@
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Games" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Games" type="462c0819:PsiDirectoryNode" />
-              <item name="pong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Games" type="462c0819:PsiDirectoryNode" />
-              <item name="snake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="Workbench" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,8 +159,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.snake_2">
-    <configuration name="backup_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Tic Tac Toe vs AI">
+    <configuration name="My intuitive TTT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,11 +168,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workbench" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Early_stuff/Course_Projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workbench/backup_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Early_stuff/Course_Projects/My intuitive TTT" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tic Tac Toe vs AI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sandbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Early_stuff/Cool stuff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Early_stuff/Cool stuff/Tic Tac Toe vs AI" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,27 +215,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Games/pong/pong.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pong" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sandbox" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pygame/pong" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pygame/pong/pong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tic Tac Toe vs AI" />
+        <item itemvalue="Python.My intuitive TTT" />
         <item itemvalue="Python.snake_2" />
         <item itemvalue="Python.snake" />
         <item itemvalue="Python.pong (1)" />
-        <item itemvalue="Python.backup_3" />
-        <item itemvalue="Python.pong" />
       </list>
     </recent_temporary>
   </component>
@@ -376,12 +378,12 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3033586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25460455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,13 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/General/Games/pong/pong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/General/Games/snake/snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -487,6 +482,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Course_Projects/My intuitive TTT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2004">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Cool stuff/Tic Tac Toe vs AI">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="105" column="51" lean-forward="true" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/One-liners">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Na Dancho domashnite">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Games/pong/pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
         </state>
       </provider>
     </entry>
