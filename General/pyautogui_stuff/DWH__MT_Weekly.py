@@ -4,10 +4,20 @@ from General.pyautogui_stuff import GSE_DWH_Login
 pyautogui.FAILSAFE = True
 
 # Inputs
-periodInput = input('Enter "c" for current period or "p" for previous period: ')
-addOrRemove = input('Enter "add" if you want to add missing countries or "remove" if you want to remove current missing countries: ')
-countryInput = input("Enter missing countries: ")
+# Current or previous period
+periodInput = input('Enter "c" for current period or "p" for previous period\n||Period -----> ')
+while "c" not in periodInput.lower() and "p" not in periodInput.lower():
+    print("Try again!")
+    periodInput = input('Enter "c" for current period or "p" for previous period\n||Period -----> ')
+# Country
+countryInput = input("Enter missing countries\n||Countries --> ")
+# Action
+addOrRemove = input('To select only the given countries type "select", to remove only the given countries type "remove"\n||Action -----> ')
+while "select" not in addOrRemove and "remove" not in addOrRemove:
+    print("Try again!")
+    addOrRemove = input('To select only the given countries type "select", to remove only the given countries type "remove"\n||Action -----> ')
 
+# Login and navigation to BTT menu
 GSE_DWH_Login.DWH_Login()
 GSE_DWH_Login.BTT_Export_Lists()
 
@@ -18,7 +28,7 @@ pyautogui.click(134, 307)
 # Select/Deselect all
 if "remove" in addOrRemove.lower():
     pyautogui.click(71, 640)  # Select all -> use to make script deselect only the given countries
-elif "add" in addOrRemove.lower():
+elif "select" in addOrRemove.lower():
     pyautogui.click(154, 641)  # Deselect all -> use to make script select only the given countries
 
 
@@ -81,8 +91,9 @@ for i in confirmedMissing:
             else:
                 pyautogui.scroll(scroll)
                 pyautogui.click(x, y)
-                if scroll != previousScroll:
-                    previousScroll = scroll
+                # if scroll != previousScroll:
+                #     previousScroll = scroll
+                previousScroll = scroll
 
 # Export
 pyautogui.PAUSE = 4
