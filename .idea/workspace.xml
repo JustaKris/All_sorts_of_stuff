@@ -2,32 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/BlackJack backup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Calc1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Decorators" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Dictionaries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Error stuff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Functions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/I can't understand how this works" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Iter()" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Lambda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Lists" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Madlib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/My copied TTT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Na Dancho domashnite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Objects" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/One-liners" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Statements Assessment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Strings ex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Tuples" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Variable positions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/While loops" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Yield, Next and Fibonachi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/args and kwargs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/class1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/for" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/if" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/pycharm snake" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/pyautogui_stuff/DWH__MT_Weekly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/pyautogui_stuff/GSE_DWH_Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/pyautogui_stuff/test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/pyautogui_stuff/test_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/pyautogui_stuff/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/pyautogui/StarTrack_DWH_Login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/pyautogui/estimatesMonthly.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/pyautogui_stuff/estimatesMonthly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General/pyautogui/mouse_position.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/pyautogui_stuff/mouse_position.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,34 +21,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/General/Games/snake/snake.py">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/estimatesMonthly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="833">
+              <caret line="49" selection-start-line="49" selection-end-line="54" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/General/Games/snake/snake_2.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/GSE_DWH_Login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
-              <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+            <state relative-caret-position="317">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="31" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Workbench/backup_3.py">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/test_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="538">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/test_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="70" lean-forward="true" selection-start-line="8" selection-end-line="70" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/DWH__MT_Weekly.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/mouse_position.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -99,10 +124,21 @@
         <option value="$PROJECT_DIR$/General/Games/pong/pong.py" />
         <option value="$PROJECT_DIR$/General/Games/snake/snake.py" />
         <option value="$PROJECT_DIR$/General/Games/snake/snake_2.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui/StarTrack_DWH_Login.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui/__init__.py" />
+        <option value="$PROJECT_DIR$/General/__init__.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui/DWH__MT_Weekly.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui/tests.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui_stuff/tests.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui_stuff/test_2.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui_stuff/test_3.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui_stuff/GSE_DWH_Login.py" />
+        <option value="$PROJECT_DIR$/General/pyautogui_stuff/DWH__MT_Weekly.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -113,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,11 +162,16 @@
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
+              <item name="General" type="462c0819:PsiDirectoryNode" />
+              <item name="pyautogui_stuff" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,8 +201,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Tic Tac Toe vs AI">
-    <configuration name="My intuitive TTT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DWH__MT_Weekly">
+    <configuration name="DWH__MT_Weekly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +210,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Early_stuff/Course_Projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui_stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Early_stuff/Course_Projects/My intuitive TTT" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui_stuff/DWH__MT_Weekly.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tic Tac Toe vs AI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Early_stuff/Cool stuff" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui_stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Early_stuff/Cool stuff/Tic Tac Toe vs AI" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui_stuff/test_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pong (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Games/pong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui_stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Games/pong/pong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui_stuff/test_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Games/snake" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui_stuff" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Games/snake/snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui_stuff/tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Games/snake" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Games/snake/snake_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui/tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Tic Tac Toe vs AI" />
-        <item itemvalue="Python.My intuitive TTT" />
-        <item itemvalue="Python.snake_2" />
-        <item itemvalue="Python.snake" />
-        <item itemvalue="Python.pong (1)" />
+        <item itemvalue="Python.DWH__MT_Weekly" />
+        <item itemvalue="Python.test_3" />
+        <item itemvalue="Python.test_2" />
+        <item itemvalue="Python.tests (1)" />
+        <item itemvalue="Python.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -378,12 +420,12 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25460455" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25460455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,20 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/General/pyautogui/estimatesMonthly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/pyautogui/StarTrack_DWH_Login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/General/Selenium/GTDC_Coding_experimentation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -467,6 +495,26 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Course_Projects/My intuitive TTT" />
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Cool stuff/Tic Tac Toe vs AI" />
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/One-liners" />
+    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Na Dancho domashnite" />
+    <entry file="file://$PROJECT_DIR$/General/Games/pong/pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/General/Games/snake/snake.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -478,52 +526,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Workbench/backup_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Course_Projects/My intuitive TTT">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2004">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Cool stuff/Tic Tac Toe vs AI">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="105" column="51" lean-forward="true" selection-start-line="105" selection-start-column="51" selection-end-line="105" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/One-liners">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Early_stuff/Notes_and_stuff/Na Dancho domashnite">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/General/Games/pong/pong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/General/Games/snake/snake_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
           <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workbench/backup_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/estimatesMonthly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/mouse_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/test_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/test_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="70" lean-forward="true" selection-start-line="8" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/GSE_DWH_Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/pyautogui_stuff/DWH__MT_Weekly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>

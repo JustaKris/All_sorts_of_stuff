@@ -14,7 +14,7 @@ endingMonth = str(input('Ending Month: '))
 # Open MS SQL Server
 pyautogui.PAUSE = 30
 pyautogui.doubleClick(2538, 1061)  # Icon
-#pyautogui.PAUSE = 0.1
+#pyautogui_stuff.PAUSE = 0.1
 pyautogui.PAUSE = 5
 pyautogui.doubleClick(2819, 552)  # Connect
 pyautogui.PAUSE = 1

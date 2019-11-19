@@ -1,13 +1,13 @@
 #Mouse position
 '''
-import pyautogui
+import pyautogui_stuff
 
 print('Press Ctrl-C to quit.')
 
 try:
     while True:
 
-        x, y =pyautogui.position()
+        x, y =pyautogui_stuff.position()
         positionStr = 'X: ' + str(x).rjust(4) + 'Y: ' + str(y).rjust(4)
 
         print(positionStr, end='')
