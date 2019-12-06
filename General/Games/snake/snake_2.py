@@ -8,7 +8,7 @@ from tkinter import messagebox
 class cube(object):
     rows = 20
     w = 500
-    def __init__(self,start,dirnx=1,dirny=0,color=(255,0,0)):
+    def __init__(self,start,dirnx=1,dirny=0,color=(0,255,0)):
         self.pos = start
         self.dirnx = 1
         self.dirny = 0
@@ -179,7 +179,7 @@ def main():
     rows = 20
     win = pygame.display.set_mode((width, width))  # Don't need height since we are doing a square
     s = snake((255,0,0), (10,10))
-    snack = cube(randomSnack(rows, s), color=(0,255,0))
+    snack = cube(randomSnack(rows, s), color=(255,0,0))
     flag = True
 
     clock = pygame.time.Clock()
@@ -191,7 +191,7 @@ def main():
         s.move()
         if s.body[0].pos == snack.pos:
             s.addCube()
-            snack = cube(randomSnack(rows, s), color=(0,255,0))
+            snack = cube(randomSnack(rows, s), color=(255,0,0))
 
         for x in range(len(s.body)):
             if s.body[x].pos in list(map(lambda z:z.pos,s.body[x+1:])):
