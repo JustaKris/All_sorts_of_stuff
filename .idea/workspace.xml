@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7282b22-a719-42d5-9088-118c74444209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/General/Games/match/Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General/Games/match/Match4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General/Misc/Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/BachelorParty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasDecoration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasMartket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasSweets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/MovieRatings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/WorldSnookerChampionship.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General/Games/snake/snake_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/General/Games/snake/snake_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workbench/backup_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Workbench/backup_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,29 +21,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Workbench/backup_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="14" lean-forward="true" selection-end-line="23" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/General/Games/match/Match4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/General/Games/match/Match.py">
+        <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasSweets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="255">
+              <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasMartket.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="42" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/WorldSnookerChampionship.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="35" column="22" lean-forward="true" selection-end-line="46" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/BachelorParty.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/MovieRatings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="31" lean-forward="true" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasDecoration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -95,10 +129,17 @@
         <option value="$PROJECT_DIR$/General/Games/Match.py" />
         <option value="$PROJECT_DIR$/General/Games/match/Match.py" />
         <option value="$PROJECT_DIR$/General/Games/match/Match4.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ЦхристмасСшеетс.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ChristmasSweets.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ChristmasMartket.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/WorldSnookerChampionship.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/BachelorParty.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/MovieRatings.py" />
+        <option value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasDecoration.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -109,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,43 +166,28 @@
               <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Games" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Games" type="462c0819:PsiDirectoryNode" />
-              <item name="match" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="SoftUni Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
               <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Games" type="462c0819:PsiDirectoryNode" />
-              <item name="snake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="Misc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-              <item name="pyautogui_stuff" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="All_sorts_of_stuff" type="462c0819:PsiDirectoryNode" />
-              <item name="Workbench" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="SoftUni Test" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammingBasics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,15 +197,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Learning\SoftUni Test\ProgrammingBasics" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Games\match" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Games" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\lol" />
       <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\File_Manipulation" />
-      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\pyautogui" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -195,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Match4">
-    <configuration name="DWH__MT_Weekly" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ChristmasDecoration">
+    <configuration name="BachelorParty" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui_stuff" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui_stuff/DWH__MT_Weekly.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/BachelorParty.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Match4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ChristmasDecoration" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Games/snake" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Games\match\Match4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasDecoration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="backup_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ChristmasMartket" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Workbench" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Learning/SoftUni Test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Workbench/backup_3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kristiyan.bonev\Desktop\stuff\Projects 2.0\All_sorts_of_stuff\General\Learning\SoftUni Test\ProgrammingBasics\ChristmasMartket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="estimatesMonthly" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MovieRatings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/pyautogui_stuff" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/pyautogui_stuff/estimatesMonthly.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/MovieRatings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WorldSnookerChampionship" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sandbox" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Games/snake" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Games/snake/snake_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/WorldSnookerChampionship.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Match4" />
-        <item itemvalue="Python.backup_3" />
-        <item itemvalue="Python.estimatesMonthly" />
-        <item itemvalue="Python.snake_2" />
-        <item itemvalue="Python.DWH__MT_Weekly" />
+        <item itemvalue="Python.ChristmasDecoration" />
+        <item itemvalue="Python.MovieRatings" />
+        <item itemvalue="Python.BachelorParty" />
+        <item itemvalue="Python.WorldSnookerChampionship" />
+        <item itemvalue="Python.ChristmasMartket" />
       </list>
     </recent_temporary>
   </component>
@@ -415,12 +440,12 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25460455" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25460455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -585,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Workbench/backup_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="true" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/General/Misc/Shapes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -608,7 +626,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/General/Games/match/Match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
+        <state relative-caret-position="606">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
         </state>
       </provider>
@@ -620,6 +638,55 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Workbench/backup_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasMartket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="42" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/WorldSnookerChampionship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="35" column="22" lean-forward="true" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasSweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/BachelorParty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/MovieRatings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/General/Learning/SoftUni Test/ProgrammingBasics/ChristmasDecoration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
