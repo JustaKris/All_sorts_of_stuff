@@ -16,7 +16,7 @@ username = chrome.find_element_by_class_name('md-input')
 username.send_keys(os.environ.get('OPS_USER'))
 
 password = chrome.find_element_by_id('pwInput')
-password.send_keys(os.environ.get('OPS_PASS'))
+password.send_keys(os.environ.get('GSE_PASS'))
 # Improvised delay
 password.click()
 password.click()
